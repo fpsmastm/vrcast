@@ -1,6 +1,0 @@
-# Cloudflare Pages + Workers config
-name = "vr-cast"
-compatibility_date = "2024-01-01"
-
-# Static assets served from /public
-pages_build_output_dir = "public"
