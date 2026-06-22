@@ -1,6 +1,0 @@
-# Cloudflare Pages redirect rules
-# Redirect /cast directly to Meta's receiver (optional shortcut URL)
-/go  https://www.oculus.com/casting  302
-
-# SPA fallback (not strictly needed for a static site, but safe to include)
-/*   /index.html   200
